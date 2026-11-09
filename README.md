@@ -6,7 +6,7 @@ An AI-powered medical question-answering chatbot built using **Retrieval-Augment
 
 ## 📸 Application Demo
 
-![Medical Chatbot Demo](https://github.com/Malleswari-27/Medical_chatbot/blob/main/screenshots/medical-chatbot-demo.png)
+![Medical Chatbot Demo][(https://github.com/Malleswari-27/Medical_chatbot/blob/main/screenshots/medical-chatbot-demo.png](https://github.com/Malleswari-27/Medical_chatbot/blob/main/screenshots/medical-chatbot-demo.png.png))
 
 *The chatbot interface showing a user query and an AI-generated response.*
 
